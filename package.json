@@ -1,0 +1,25 @@
+{
+  "name": "api-cahing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "mocha": "^7.1.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Colochenero/API-cachin-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Colochenero/API-cachin-2/issues"
+  },
+  "homepage": "https://github.com/Colochenero/API-cachin-2#readme"
+}
